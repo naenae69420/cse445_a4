@@ -13,24 +13,23 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.5">
-    <Name>Marriott</Name>
+    <Name>Texas Roadhouse</Name>
     <Address NearstAirport="Sky Harbor">
-      <Number>300</Number>
+      <Number>330</Number>
       <Street>S Mill Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
   </Hotel>
   <Hotel Rating="3.8">
-    <Name>Hyatt</Name>
-    <Name>Regency</Name>
-    <Phone>602-252-1234</Phone>
+    <Name>Phoenix Residence</Name>
+    <Phone>602-300-1234</Phone>
     <Address NearstAirport="Sky Harbor">
-      <Number>122</Number>
-      <Street>N 2nd St</Street>
+      <Number>652</Number>
+      <Street>N 21nd St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
-      <Zip>85004</Zip>
+      <Zip>85053</Zip>
     </Address>
   </Hotel>
 </Hotel>
